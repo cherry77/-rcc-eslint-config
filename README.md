@@ -21,6 +21,6 @@ pnpm add eslint -D
 ```json
 {
   "root": true,
-  "extends": ["@rcc/eslint-config"]
+  "extends": ["@rcc-pkg/eslint-config"]
 }
 ```
