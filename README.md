@@ -1,11 +1,11 @@
 # 引入包(三选一)
 
 ```
-npm install @rcc/eslint-config -D
+npm install @rcc-pkg/eslint-config -D
 
-yarn add @rcc/eslint-config --dev
+yarn add @rcc-pkg/eslint-config --dev
 
-pnpm add @rcc/eslint-config -D
+pnpm add @rcc-pkg/eslint-config -D
 ```
 # 项目中使用
 ## 安装(三选一)
